@@ -42,6 +42,10 @@ It analyzes the relationship between total cases, deaths, and vaccination progre
 | `README.md` | Project documentation |
 
 ---
+## Tableau Dashboard
+
+<img width="1122" height="689" alt="14 10 2025_21 51 59_REC" src="https://github.com/user-attachments/assets/432006c5-29de-4f57-8ba4-1e78eafcb630" />
+
 
 ## ✨ Author
 **Belal Abdelrhman**
